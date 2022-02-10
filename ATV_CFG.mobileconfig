@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>woshidaizi</string>
+			<key>PayloadDescription</key>
+			<string>配置 Wi-Fi 设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.85FFC264-B1E1-40BA-A5F0-C2DD7C0F80C9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>85FFC264-B1E1-40BA-A5F0-C2DD7C0F80C9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyServer</key>
+			<string>192.168.3.22</string>
+			<key>ProxyServerPort</key>
+			<integer>7890</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+			<key>SSID_STR</key>
+			<string>TinyNerd's Home_5G</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>未命名</string>
+	<key>PayloadIdentifier</key>
+	<string>zhangchengqis-MacBook-Pro.66232F19-CDC3-4B66-A51B-49B1A006B73F</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>E6F2368A-6FFE-4D13-B11B-CE717BB24D6D</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
